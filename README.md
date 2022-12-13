@@ -6,7 +6,7 @@ the database is postgreSql
 
 the connection is prisma
 
-the api is graphql
+the api is graphql and typescript
 
 the client is react
 
