@@ -9,3 +9,5 @@ the connection is prisma
 the api is graphql
 
 the client is react
+
+this blog is I follow a tutorial form udemy
