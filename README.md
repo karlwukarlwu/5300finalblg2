@@ -2,7 +2,7 @@
 
 I hide the .env file beacuse it contains my database connection url
 
-the database is postgreSql
+the database is online postgreSql on heroku
 
 the connection is prisma
 
