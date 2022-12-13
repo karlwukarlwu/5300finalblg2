@@ -2,14 +2,14 @@
 
 I hide the .env file beacuse it contains my database connection url
 
-the database is online postgreSql on heroku
+the database uses online postgreSql on heroku
 
 the database and api connection is prisma
 
-the api is graphql and typescript
+the api uses graphql and typescript
 
-the api and client connection is apollo server and apollo client
+the api and client connection use apollo server and apollo client
 
-the client is react
+the client uses react
 
 this blog is created by following a tutorial form udemy
