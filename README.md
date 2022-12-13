@@ -10,4 +10,4 @@ the api is graphql
 
 the client is react
 
-this blog is I follow a tutorial form udemy
+this blog is created by following a tutorial form udemy
